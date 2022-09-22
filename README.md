@@ -1,2 +1,2 @@
-# deep Classifier project
+# Template for ML/DL project
 
