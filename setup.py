@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 __version__ = "0.0.0"
 
 REPO_NAME = "reponame" #change the repo name
-AUTHOR_USER_NAME = "Sathish"
+AUTHOR_USER_NAME = "sathishr11"
 SRC_REPO = "repo" #change the src_repo
 AUTHOR_EMAIL = "mail2sathish11@gmail.com"
 
